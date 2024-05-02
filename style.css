@@ -1,0 +1,71 @@
+.top-navbar {
+  border-radius: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #079889;
+  color: white;
+}
+.bell-icon {
+  background-color: #d0dbd9;
+  color: black;
+}
+.sidebar {
+  background-color: #079889;
+  color: white;
+  border-radius: 20px;
+}
+
+.btn-container {
+  justify-content: center;
+  width: 300px;
+  background-color: #0d8e84;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}
+
+.bannerbg {
+  background-image: linear-gradient(rgba(13, 142, 132, 1), rgba(0, 0, 0, 0.6)),
+    url("https://i.ibb.co/bbMjKdJ/ezgif-7-f1bd9b5954.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: flex-start;
+  border-radius: 30px;
+  width: 100%;
+  height: 700px;
+}
+.detail-container {
+  background-color: #1d9d92;
+  background: transparent;
+}
+.btn-PNR {
+  background-color: #0b918c;
+}
+.route-container {
+  background-color: whitesmoke;
+  width: 370px;
+
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 30px;
+}
+#option-text {
+  color: rgb(168, 168, 168) !important;
+}
+.search-flight-btn {
+  background-color: #0a9e90;
+  color: white;
+  border-radius: 10px;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.footer {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  background-color: #079889;
+  color: white;
+}
